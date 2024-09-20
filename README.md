@@ -2,7 +2,7 @@
 
 Aquest repositori conté tots els exemples de codi que es mostren a la unitat 0 de l'assignatura Sistemes Operatius. Títulada "Introducció a la programació de sistema (I) en C".
 
-Les diapositives teòriques es poden trobar a [Diapositives]().
+Les diapositives teòriques es poden trobar a [Diapositives](https://github.com/OS-GEI-IGUALADA-2425/materials/blob/main/diapositives/SO_c.pdf).
 
 ## Contingut
 
